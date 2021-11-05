@@ -1,0 +1,13 @@
+.red-button{
+    background-color: tomato;
+    width: 100px;
+    height: 20px;
+    padding: 20px
+}
+
+.green-button{
+    background-color: green;
+    width: 100px;
+    height: 20px;
+    padding: 20px
+}
